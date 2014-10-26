@@ -1,4 +1,20 @@
 ==================================================================
+#Varibles used
+##Subject_Label
+is a merged data set with both the training and test subjects with by their id number by using rbind
+
+##Activity_Label
+is a merged data set with the training and test activity labels as described in the activity_labels.txt
+##Train_Test_Data
+Is a merged data set of the training and test data for all of the subjects and activities by using rbind
+##Merged_Data
+is a data set is the result of using cbind on the following data sets together Subject_Label, Activity_label, and Train_Test_Data respectivly 
+##Tidy
+is a data set created from the Merged_Data varible and has the mean for each subjects activity that they have perfromed by using the ddply function
+
+# Description of the data and how it was collected
+from the Readme.txt from the unzipped data set
+==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 ==================================================================
