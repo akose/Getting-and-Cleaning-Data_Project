@@ -1,8 +1,9 @@
 ==================================================================
 #Varibles used
+##File_name
+This varible is a list of all of the files that are needed from the downloaded and extracted data and the default structure
 ##Subject_Label
 is a merged data set with both the training and test subjects with by their id number by using rbind
-
 ##Activity_Label
 is a merged data set with the training and test activity labels as described in the activity_labels.txt
 ##Train_Test_Data
