@@ -2,7 +2,7 @@ Getting-and-Cleaning-Data_Project
 =================================
 README.md
 This repo explains how all of the scripts work and how they are connected.
-#Sctips in Project
+#Scripts in Project
 There is only one script file that is connected to this project
 
 There are 5 functions in this file named
